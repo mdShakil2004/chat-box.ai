@@ -12,7 +12,7 @@ I have used following tools
 3. API key -gemini
 
 Source - code : https://github.com/Shakil0786/chat-box.ai
-linkdin - linkedin.com/in/md-shakil-1166832ab
+linkdin -https://linkedin.com/in/md-shakil-1166832ab
 
 Demo
 
