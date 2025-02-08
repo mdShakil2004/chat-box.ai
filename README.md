@@ -4,14 +4,14 @@ this is my new project chat -box AI. people can ask any query as a prompt  and r
 Hi.. dev. 
 I am excited to share my latest AI project 👉chat-box ai
 You can ask any query as a prompt and press the enter or tap on send icon , your response generate within a second 
-Here is my project deployed link https://shakil0786.github.io/chat-box.ai/
+Here is my project deployed link https://mdshakil2004.github.io/chat-box.ai/
 
 I have used following tools 
 1. Front-end => HTML , CSS , JS , REACT 
 2. back-end => node js , mongoDB
 3. API key -gemini
 
-Source - code : https://github.com/Shakil0786/chat-box.ai
+Source - code : https://github.com/mdshakil2004/chat-box.ai
 linkdin -https://linkedin.com/in/md-shakil-1166832ab
 
 Demo
